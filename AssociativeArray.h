@@ -2,7 +2,7 @@
   Notes:
 
   1. To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map
-     class was inevitable.  
+     method was inevitable.  
 
      The test that follows defines a simple set of short, sharp functions showing a means to handle otherwise complex virtual data
      structures in a human readable way.
