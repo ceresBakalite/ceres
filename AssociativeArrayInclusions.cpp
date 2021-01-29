@@ -2,7 +2,7 @@
   Notes:
 
   1. To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map
-     class was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array
+     method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array
      manipulation is open to debate.
 
      What follows are a simple set of short, sharp functions showing a means to handle otherwise complex virtual data
