@@ -1,13 +1,13 @@
 ## Welcome to ceres
 
-### *Associative arrays*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="../ceres-sv/images/CSV-02/Logo01.png"></div>
+### *Associative arrays*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSV-02/Logo01.png"></div>
 
 **ceres** presents a simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
 readable way.
 
 ***
 
-### Summary<img class="img-pointer" align="left" src="/images/CSVPeriscope.png">
+### Summary<img class="img-pointer" align="left" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSVPeriscope.png">
 
 To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map 
 method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array 
