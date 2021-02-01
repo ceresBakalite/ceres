@@ -9,12 +9,12 @@ readable way.
 
 ### Progress<img class="img-pointer" align="left" src="/images/CSVPeriscope.png">
 
-     To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map
-     method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array
-     manipulation is open to debate.
+To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map 
+method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array 
+manipulation is open to debate.
      
-     The functions presented here have been used as the basis for handling large JSON lists as their text based structure 
-     is highly conducive to managing one to one, one to many, and many to many data constructs.
+The functions presented here have been used as the basis for handling large JSON lists as their text based structure 
+is highly conducive to managing one to one, one to many, and many to many data constructs.
 
 <br>
 
