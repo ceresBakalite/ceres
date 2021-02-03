@@ -2,7 +2,7 @@
 
 ### *Associative arrays*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSV-02/Logo01.png"></div>
 
-**ceres** presents a simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
+**ceres** is a very simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
 readable way.
 
 ***
