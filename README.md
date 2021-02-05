@@ -2,7 +2,7 @@
 
 ### *Associative arrays*<div id="logo-container"><img id="logo-default" title="No readable content. Just a page logo" class="img-logo" align="right" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSV-02/Logo01.png"></div>
 
-**ceres** is a very simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
+**ceres** is a quite simple set of short, sharp functions showing a means to handle doubly linked lists in a human 
 readable way.
 
 ***
@@ -13,10 +13,9 @@ To be fair to the humble array, once nesting (the means to hold arrays within ar
 method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array 
 manipulation is open to debate.
      
-The functions presented here, although primitive, began life as the basis for handling large JSON lists. The text 
-based structure of these lists is highly conducive to representing one to *n* data constructs and these simple 
-routines can be particularly useful when required to traverse and manage representations of particularly long 
-cartesian joins.
+The functions presented here, although primitive, began life as the basis for handling large JSON lists. The text-based
+structure of these lists is highly conducive to representing one to *n* data constructs and these simple routines can be 
+particularly useful when required to traverse and manage representations of particularly long cartesian joins.
 
 <br>
 
