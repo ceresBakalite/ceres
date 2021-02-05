@@ -14,7 +14,8 @@ method was inevitable.  Whether it adds, or for that matter simplifies, a great 
 manipulation is open to debate.
      
 The functions presented here have been used as the basis for handling large JSON lists as their text based structure 
-is highly conducive to managing one to one, one to many, and many to many data constructs.
+is highly conducive to managing one to *n* data constructs. They can be particularly useful when traversing long 
+cartesian joins.
 
 <br>
 
