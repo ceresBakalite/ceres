@@ -13,9 +13,9 @@ To be fair to the humble array, once nesting (the means to hold arrays within ar
 method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array 
 manipulation is open to debate.
      
-The functions presented here have been used as the basis for handling large JSON lists as their text based structure 
-is highly conducive to managing one to *n* data constructs and can be particularly useful when traversing long 
-cartesian joins.
+The functions presented here, although primitive, began life as the basis for handling large JSON lists. The text 
+based structure of these lists is highly conducive to representing one to *n* data constructs and these simple 
+routines can be particularly useful when required to traversing particularly long cartesian joins.
 
 <br>
 
