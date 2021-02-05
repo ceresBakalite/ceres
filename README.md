@@ -15,7 +15,7 @@ manipulation is open to debate.
      
 The functions presented here, although primitive, began life as the basis for handling large JSON lists. The text 
 based structure of these lists is highly conducive to representing one to *n* data constructs and these simple 
-routines can be particularly useful when required to traversing particularly long cartesian joins.
+routines can be particularly useful when required to traverse representations of particularly long cartesian joins.
 
 <br>
 
