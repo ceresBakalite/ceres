@@ -14,7 +14,7 @@ method was inevitable.  Whether it adds, or for that matter simplifies, a great 
 manipulation is open to debate.
      
 The functions presented here, although primitive, began life as the basis for handling large JSON lists. The text-based
-structure of these lists is highly conducive to representing one to *n* data constructs and these simple routines can be 
+structure of these lists is highly conducive to modelling one to *n* data constructs and these simple routines can be 
 particularly useful when required to traverse and manage representations of particularly long cartesian joins.
 
 <br>
