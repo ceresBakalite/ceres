@@ -13,7 +13,7 @@ The functions presented here are really no more than just a useful exercise in m
 
 To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array manipulation is open to debate.
 
-These functions, although primitive, began life as the basis for handling large JSON lists. The text-based structure of these lists is highly conducive to modelling one to *n* data representations and these simple routines can be particularly useful when there is a requirement to traverse and manage constructs containing particularly long cartesian joins.
+These functions, although primitive, began life as the basis for handling large JSON lists. The text-based structure of these lists is highly conducive to modelling one to *n* data representations and these simple routines can be particularly useful when there is a requirement to traverse and manage purely text based constructs containing particularly long cartesian joins.
 
 
 <br>
