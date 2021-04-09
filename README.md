@@ -9,7 +9,7 @@ readable way.
 
 ### Summary<img class="img-pointer" align="left" src="https://github.com/ceresBakalite/ceres-sv/raw/main/images/CSVPeriscope.png">
 
-The functions presented here are really no more than just a useful exercise in managing arrays, or to be more precise. a means to map RDBMS schema representions. 
+The functions presented here are really no more than just a useful exercise in managing arrays, or to be more precise. a means to map and traverse RDBMS schema representions. 
 
 To be fair to the humble array, once nesting (the means to hold arrays within arrays) became common place, the map method was inevitable.  Whether it adds, or for that matter simplifies, a great deal towards the art of array manipulation is open to debate.
 
